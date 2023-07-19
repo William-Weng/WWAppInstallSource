@@ -1,6 +1,6 @@
 //
-//  WWWebSocket.swift
-//  WWWebSocket
+//  WWAppInstallSource.swift
+//  WWAppInstallSource
 //
 //  Created by William.Weng on 2023/4/24.
 //
