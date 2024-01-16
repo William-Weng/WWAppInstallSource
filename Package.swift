@@ -6,7 +6,7 @@ import PackageDescription
 let package = Package(
     name: "WWAppInstallSource",
     platforms: [
-        .iOS(.v13)
+        .iOS(.v14)
     ],
     products: [
         .library(name: "WWAppInstallSource", targets: ["WWAppInstallSource"]),
