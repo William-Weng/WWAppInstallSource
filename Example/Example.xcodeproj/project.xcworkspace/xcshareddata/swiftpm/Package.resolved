@@ -1,12 +1,21 @@
 {
   "pins" : [
     {
+      "identity" : "wwappinstallsource",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/William-Weng/WWAppInstallSource",
+      "state" : {
+        "revision" : "22c6423f9aecfefa7b8dc639a6d8980e3f51a60f",
+        "version" : "1.0.0"
+      }
+    },
+    {
       "identity" : "wwprint",
       "kind" : "remoteSourceControl",
       "location" : "https://github.com/William-Weng/WWPrint",
       "state" : {
-        "revision" : "67b58781fca2d400202f93c27ef695805947a717",
-        "version" : "1.0.1"
+        "revision" : "0acf1057863faea81c3ded2057c21b09c3435435",
+        "version" : "1.3.0"
       }
     }
   ],
