@@ -15,5 +15,8 @@ let package = Package(
     ],
     targets: [
         .target(name: "WWAppInstallSource", dependencies: []),
+    ],
+    swiftLanguageVersions: [
+        .v5
     ]
 )
